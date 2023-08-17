@@ -37,8 +37,5 @@ Key Achievements:
 Lessons Learned:
 Throughout this project, we learned the importance of data integrity, robust reporting mechanisms, and comprehensive categorization of incidents. The analysis also underscored the significance of cultural sensitivity and gender considerations when addressing crime prevention and victim support.
 
-Future Plans:
-Building on the insights gained from this analysis, our future plans include collaborating with law enforcement agencies, community organizations, and policymakers to implement data-driven strategies. These strategies aim to enhance crime prevention efforts, tailor victim support services, and engage with diverse communities effectively.
-
 In conclusion, this project serves as a stepping stone towards a safer and more informed Los Angeles. By leveraging the power of data and analysis, we endeavor to contribute to the ongoing efforts to create secure neighborhoods, support victims, and foster collaboration between all community members. As we move forward, we remain committed to harnessing insights for positive change and building a resilient and thriving community.
 
