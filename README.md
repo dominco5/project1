@@ -19,6 +19,8 @@ Questions:
 
 Analysis/Trends: Most common types of crime, frequency of crimes, time of occurence, seasonal/yearly trends, type of weapon used (assault/violent crime), victim age/ethnicity, location
 
-Roles: TBD
+Roles:
+  Data Cleaning: Dominic, Andrea;
+  Slides: Marie;
+  Analysis/Visualization: All
 
-Predictions/Proposed Takeaways: 
