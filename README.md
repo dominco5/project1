@@ -22,7 +22,7 @@ Roles:
   Slides: Marie;
   Analysis/Visualization: All
 
-Conclusion: 
+Analysis & Conclusion: 
 
 In the course of analyzing crime data in Los Angeles, this project aimed to unravel the complex landscape of criminal activities, victim demographics, and incident characteristics. Through meticulous data analysis and insightful visualizations, key insights have been gleaned that contribute to a deeper understanding of the city's crime dynamics.
 
